@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="entries">  
+ <item>内側から見る</item>  
+ <item>外側から見る</item>  
+ <item>内側から自由な角度で見る</item> 
+ <item>立体的に見る（アナグリフ方式）</item>  
+</string-array>  
+  
+<string-array name="entryvalues">  
+ <item>0</item>  
+ <item>1</item>  
+ <item>2</item> 
+ <item>3</item>    
+</string-array>  
+
+    
+</resources>

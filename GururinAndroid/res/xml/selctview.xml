@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference 
+    android:title="表示方法の選択" 
+    android:defaultValue="1" 
+    android:key="@string/list" 
+    android:entryValues="@array/entryvalues" android:entries="@array/entries"></ListPreference>
+</PreferenceScreen>
